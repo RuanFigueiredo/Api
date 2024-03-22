@@ -10,7 +10,7 @@ export class user{
     id: String;
 
     @Column()
-    nome: String;
+    name: String;
 
     @Column()
     email:String;
